@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Beyoncé"},
+                  "SongTitle": {"S": "Drunk in love"},
+                  "AlbumTitle": {"S": "Beyoncé"},
+                  "SongYear": {"S": "2013"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Beyoncé"},
+                  "SongTitle": {"S": "CUFF IT"},
+                  "AlbumTitle": {"S": "Renaissance"},
+                  "SongYear": {"S": "2022"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Beyoncé"},
+                  "SongTitle": {"S": "Formation"},
+                  "AlbumTitle": {"S": "Lemonade"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        }
+      ]
+}
