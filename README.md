@@ -2,7 +2,7 @@
 O Amazon DynamoDB, banco de dados NoSQL (Não Relacional) altamente escalável e gerenciado pela AWS (Amazon Web Services). Ele é projetado para armazenar e processar grandes volumes de dados com baixa latência e alta disponibilidade, tornando-se uma ótima escolha para aplicações de alta performance e escalabilidade.
 
 ## O Projeto
-    O projeto consiste em persistir os dados de um artista (Beyoncé) que possui vários álbuns e os álbuns possuem várias músicas.
+ O projeto consiste em persistir os dados de um artista (Beyoncé) que possui vários álbuns e os álbuns possuem várias músicas.
 
 ## Comandos
 * [Criar uma tabela](#✅-criar-uma-tabela)
