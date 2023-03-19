@@ -1,0 +1,6 @@
+{
+    "Artist": {"S": "Beyoncé"},
+    "SongTitle": {"S": "Drunk in love"},
+    "AlbumTitle": {"S": "Beyoncé"},
+    "SongYear": {"S": "2013"}
+  }
