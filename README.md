@@ -5,17 +5,17 @@ O Amazon DynamoDB, banco de dados NoSQL (Não Relacional) altamente escalável e
  O projeto consiste em persistir os dados de um artista (Beyoncé) que possui vários álbuns e os álbuns possuem várias músicas.
 
 ## Comandos
-* [Criar uma tabela](#✅-criar-uma-tabela)
-* [Inserir um item](#✅-inserir-um-item)
-* [Inserir múltiplos itens](#✅-inserir-múltiplos-itens)
-* [Criar um index global secundário baeado no título do álbum](#✅-criar-um-index-global-secundário-baeado-no-título-do-álbum)
-* [Criar um index global secundário baseado no nome do artista e no título do álbum](#✅-criar-um-index-global-secundário-baseado-no-nome-do-artista-e-no-título-do-álbum)
-* [Criar um index global secundário baseado no título da música e no ano](#✅-criar-um-index-global-secundário-baseado-no-título-da-música-e-no-ano)
-* [Pesquisar item por artista](#✅-pesquisar-item-por-artista)
-* [Pesquisar item por artista e título da música](#✅-pesquisar-item-por-artista-e-título-da-música)
-* [Pesquisa pelo index secundário baseado no título do álbum](#✅-pesquisa-pelo-index-secundário-baseado-no-título-do-álbum)
-* [Pesquisa pelo index secundário baseado no nome do artista e no título do álbum](#✅-pesquisa-pelo-index-secundário-baseado-no-nome-do-artista-e-no-título-do-álbum)
-* [Pesquisa pelo index secundário baseado no título da música e no ano](#✅-pesquisa-pelo-index-secundário-baseado-no-título-da-música-e-no-ano)
+* [Criar uma tabela](#-criar-uma-tabela)
+* [Inserir um item](#-inserir-um-item)
+* [Inserir múltiplos itens](#-inserir-múltiplos-itens)
+* [Criar um index global secundário baeado no título do álbum](#-criar-um-index-global-secundário-baeado-no-título-do-álbum)
+* [Criar um index global secundário baseado no nome do artista e no título do álbum](#-criar-um-index-global-secundário-baseado-no-nome-do-artista-e-no-título-do-álbum)
+* [Criar um index global secundário baseado no título da música e no ano](#-criar-um-index-global-secundário-baseado-no-título-da-música-e-no-ano)
+* [Pesquisar item por artista](#-pesquisar-item-por-artista)
+* [Pesquisar item por artista e título da música](#-pesquisar-item-por-artista-e-título-da-música)
+* [Pesquisa pelo index secundário baseado no título do álbum](#-pesquisa-pelo-index-secundário-baseado-no-título-do-álbum)
+* [Pesquisa pelo index secundário baseado no nome do artista e no título do álbum](#-pesquisa-pelo-index-secundário-baseado-no-nome-do-artista-e-no-título-do-álbum)
+* [Pesquisa pelo index secundário baseado no título da música e no ano](#-pesquisa-pelo-index-secundário-baseado-no-título-da-música-e-no-ano)
 
 ### Serviço utilizado
   - Amazon DynamoDB
